@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: work@denwilliams.net
+  api_key:
+    secure: GGyvy2LQVKGkXDXzQnldngBewoXpiS+Vw1vRXhJErdv+wmAeFVybix6iuIq5tFC8TBWIF/WiEYg9TIoye1i107lzthY43AAatLWSUdAq75EXKd10w/jZ8cOx+QVx32k1TkjR+pgB7e2PXaC6PR1i+bzLiG1czxcipHV4y9/s3ORcpnccMFDArsehcYMtpSxjXEMHH0m0CIueCO1aqxO+YUIYuZpD2C6J1AVGx3cNSYnfyClKiuNPpa5R7JFh5NYGxItg5Qrxq8zOnudHojsDJFywlW15yT56mIXcW4QC2mAYri65zBTHclNi3LdPBoiylkHzJ79DmRLpXnGfU8WI6UvEACb5D3z1nszofumhzDs9b65hPw2fuNQ7FcySaOLzW4Zvz710m7xYaLDI9Mcdxp1S4G5qcxWW89RTCTftHOyoQLE4aE+iTOx6JNE1A/D3P19oYEQSRO3evNq5XOc2jxOC/pUedlPPJKoc+aNjD+8tfZNl0FYJryT3djEnVfAnbxF6579qUVg9PCRw1Qu1iQzVul1mhNHeleGbXONnodi0lDNaG3PXvozysLdPWxmfhC/JqOB+f31wJJAunC0YG9450MAg4BO0D1mDG7GcMg2QXJpPcq/hko+9SfXCk0xH1C5IZA0+S7Xe0M+LQTZ1iL5jMu/WVNUGcT+7JJlGGSs=
+  on:
+    tags: true
+    repo: denwilliams/node-red-contrib-flic-buttons-hci
