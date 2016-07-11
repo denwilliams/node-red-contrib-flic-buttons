@@ -32,6 +32,8 @@ module.exports = function(RED) {
 
 		this.flic.on('click', onClick);
 
+		this.flic.on('error', function (err) {});
+
 		this.on('close', function(){
 			node.flic.removeListener('click', onClick);
 			node.flic.close();
