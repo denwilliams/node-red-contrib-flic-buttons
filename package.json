@@ -3,7 +3,7 @@
   "version": "0.1.3",
   "description": "A Node-RED node to inject events from flic buttons",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "keywords": [
     "flic.io",
