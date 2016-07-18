@@ -15,11 +15,16 @@
       "flic": "nodes/flic.js"
     }
   },
-  "author": {
-     "email":"work@denwilliams.net",
-     "name" : "Den Williams",
-     "url"  : "http://denwilliams.net"
+  "author": "Den Williams <work@denwilliams.net> (http://denwilliams.net)",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denwilliams/node-red-contrib-flic-buttons-hci.git"
   },
-  "dependencies": {
-  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denwilliams/node-red-contrib-flic-buttons-hci/issues"
+  },
+  "homepage": "https://github.com/denwilliams/node-red-contrib-flic-buttons-hci#readme"
 }
